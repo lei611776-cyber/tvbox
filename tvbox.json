@@ -4,7 +4,7 @@
     {
       "group": "redirect",
       "channels": [
-        
+        {
           "name": "live",
           "urls": [
             "proxy://do=live&type=txt&ext="
@@ -604,5 +604,7 @@
       ]
     }
   ],
-  
+  "ads": [
+    "43.248.128.138"
+  ]
 }
